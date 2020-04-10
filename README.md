@@ -9,6 +9,8 @@ LSA64(http://facundoq.github.io/unlp/lsa64/)のデータセットをもとに構
 入力：30フレームの動画
 出力：ラベル値
 
+※検証データに対して、約88%
+
 <h2>必要なもの</h2>
 1.python3
 2.tensorflow(version2)
