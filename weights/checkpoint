@@ -1,0 +1,2 @@
+model_checkpoint_path: "w_1e-05_3"
+all_model_checkpoint_paths: "w_1e-05_3"
